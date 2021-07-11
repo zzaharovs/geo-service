@@ -64,6 +64,13 @@ cmake-build-*/
 # IntelliJ
 out/
 
+### Intellij Patch ###
+.idea/
+*.iml
+.idea/modules.xml
+.idea/misc.xml
+*.ipr
+
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
